@@ -2,7 +2,7 @@
     <h1><?php echo $judul ?></h1>
     <h4>Nama</h4>
     <ul type="disc">
-      <li>Nama Lengkap : Naufal Muhammad Alghifari</li>
+      <li>Nama Lengkap : _Naufal Muhammad Alghifari</li>
  </ul>
  <br>
  <h4>Alamat</h4>
