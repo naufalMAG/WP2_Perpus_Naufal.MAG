@@ -17,7 +17,7 @@
                     <td colspan="3">
                         <hr>
                     </td>
-                </tr>2
+                </tr>
                 <tr>
                     <th>Kode MTK</th>
                     <th>:</th>
